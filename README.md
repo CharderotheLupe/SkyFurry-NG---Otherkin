@@ -9,8 +9,7 @@
 
 
 
-
-# SkyFurry-NG---Otherkin
+# SkyFurry NG - Otherkin
 
 ## Installation
 
