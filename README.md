@@ -2,7 +2,7 @@
 
 ## Installation
 
-If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist). Othwerwise, aside from ensuring you have followed the pre-installation steps, installing is simply a matter of waiting. 
+Please follow the pre-installation steps, installing is simply a matter of waiting. 
 For instructions, please expand the details below and begin following the steps.
 
 ### Pre-Installation
