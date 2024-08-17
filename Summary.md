@@ -11,7 +11,7 @@
 - [Crusader and Leveling Changes](#crusader-and-leveling-changes)
 
 
-###Core Mods
+### Core Mods
 
 SkyFurry NG - Otherkin is built with Simonrim Suite of gameplay overhauls as a core. Almost every part of the game from perks and magic to survival mechanics and combat have been overhauled to bring you a challenging and cohesive experience.
 
