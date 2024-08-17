@@ -1,3 +1,14 @@
+![](https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Assets/splash.png)
+
+<p align="center">
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/126656">Nexus</a> |
+  <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Changelog.md">Changelog</a> |
+  <a href="https://loadorderlibrary.com/lists/skyfurry-ng-otherkin">Modlist</a> |
+  </p>
+
+
+
 ## This summary is not a description of each and every mod, but I will highlight on some important ones. For a preview list of mods please check out the list on Load Order Library. https://loadorderlibrary.com/lists/skyfurry-ng-otherkin
 
 
