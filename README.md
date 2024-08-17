@@ -164,9 +164,7 @@ SkyFurry NG - Otherkin offers some mods to provide Ultrawide and Widescreen Supp
 
 </Details>
   
-Playing the List
-Starting the Game
-Before starting the game, I suggest reading over the Detailed Summary document for the list. It should only take a few minutes at most.
+Before starting the game, I suggest reading over the [Detailed Summary](#summary) document for the list. It should only take a few minutes at most.
 
 Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
 Launch the "Play" Executable in MO2.
