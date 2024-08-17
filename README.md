@@ -171,7 +171,7 @@ Before starting the game, I suggest reading over the Detailed Summary document f
 Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
 Launch the "Play" Executable in MO2.
 Click "New Game".
-Winds of the North includes "Optional Quick Start" so you may choose to skip the normal Helgen scene, and start at the exit of the Helgen Keep cave.
+SkyFurry NG - Otherkinof the North includes "Optional Quick Start" so you may choose to skip the normal Helgen scene, and start at the exit of the Helgen Keep cave.
 All MCM options that need to be configured have already been pre-configured for you.
 Updating the modlist
 Versioning for the list will adhere to the following format: MAJOR.MINOR.PATCH.
