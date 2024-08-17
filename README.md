@@ -7,7 +7,7 @@ For instructions, please expand the details below and begin following the steps.
 
 ### Pre-Installation
 
-<Details>
+
 <summary>Pre-Installation Instructions</summary>
 
 These steps are only required for installing the Modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, for new users I suggest reading through here regardless.
@@ -164,4 +164,25 @@ SkyFurry NG - Otherkin offers some mods to provide Ultrawide and Widescreen Supp
 
 </Details>
   
+Playing the List
+Starting the Game
+Before starting the game, I suggest reading over the Detailed Summary document for the list. It should only take a few minutes at most.
 
+Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
+Launch the "Play" Executable in MO2.
+Click "New Game".
+Winds of the North includes "Optional Quick Start" so you may choose to skip the normal Helgen scene, and start at the exit of the Helgen Keep cave.
+All MCM options that need to be configured have already been pre-configured for you.
+Updating the modlist
+Versioning for the list will adhere to the following format: MAJOR.MINOR.PATCH.
+
+MAJOR: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with NEVER be save safe.
+MINOR: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
+PATCH: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
+In some rare cases you may see a fourth number be used, which I will refer to as HOTFIX. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance. Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates. Updating is like installing the list. Simply make sure your paths are the same and tick the overwrite existing modlist button. Note: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
+ALWAYS back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped.
+
+Please make sure you back up your saves if you plan on continuing a playthrough across a save safe update.
+
+Removing the Modlist
+Simply delete the entire modlist folder and you should be good to go.
