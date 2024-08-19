@@ -5,6 +5,7 @@
   <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/README.md">Installation</a> |
   <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Changelog.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/skyfurry-ng-otherkin">Modlist</a> |
+  <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Summary.md">Summary</a> |
   </p>
 
 
