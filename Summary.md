@@ -28,6 +28,12 @@ SkyFurry NG - Otherkin is built with Simonrim Suite of gameplay overhauls as a c
 
 Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Apprentice difficulty especially with the added challenge of the accompanying enemy mods.
 
+## Textures
+
+- [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179) by Skyking2020
+- [Armor Retextures](https://next.nexusmods.com/profile/xavbio/about-me?gameId=1704) by xavbio
+- [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017) by LeanWolf and masterofshadows
+
 ## Enemy Overhauls include:
 
 - [Madmen](https://www.nexusmods.com/skyrimspecialedition/mods/98579) by Oreo
@@ -36,6 +42,7 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 - [Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) by Delta
 - [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) by ElectricSparx
 - [Hokoron](https://www.nexusmods.com/skyrimspecialedition/mods/89212) by Aelix
+- [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085) by DarkWandererAmon
 
 ## New Lands, Quests, Content
 - [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) by The Beyond Skyrim - Cyrodiil Development Team
