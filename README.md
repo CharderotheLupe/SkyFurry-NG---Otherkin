@@ -195,3 +195,23 @@ Please make sure you back up your saves if you plan on continuing a playthrough 
 
 Removing the Modlist
 Simply delete the entire modlist folder and you should be good to go.
+
+### System Requirements
+
+>  Please note these specs are the best idea of a baseline that I can provide at the current moment.
+
+
+ **My Specs** - (1440p) |   
+ **CPU**   -  AMD Ryzen 7 5800 |
+ **Video Card**     - NVIDIA GeForce RTX 3060 |
+ **Ram**   - 32GB DDR4 (2x16) |
+ **Storage**    - M.2 NVMe |
+
+Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
+
+Downloads: ~? GB  
+Install: ~? GB  
+**TOTAL:** ~? GB  
+
+ > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
+
