@@ -8,9 +8,12 @@
             "github/Chardero the Lupe"
         ],
         "game": "skyrimspecialedition",
+        "official": true,
         "tags": [
-            "Simonrim",
-            "<"
+            "SimonRim",
+            "Anniversary Edition",
+            "NeverNude",
+            "Creation Club"
         ],
         "nsfw": false,
         "image_contains_title": false,
