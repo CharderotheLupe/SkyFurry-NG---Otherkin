@@ -87,6 +87,10 @@ The English Steam version of Skyrim is the only supported version. I understand 
  5. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
  6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
 > 
+
+### * Required Steam, Skyrim Special Edition: Creation Kit. * ###
+ Install from Steam store (free)
+
 ### Wabbajack Installation
 
 <Details>
