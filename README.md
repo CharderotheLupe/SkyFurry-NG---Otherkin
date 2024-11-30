@@ -90,6 +90,14 @@ The English Steam version of Skyrim is the only supported version. I understand 
 
 ### * Required Steam, Skyrim Special Edition: Creation Kit. * ###
  Install from Steam store (free)
+ Note~ Otherkin currently uses the last version of CK and needs to be downgraded, sorry. I'll be removing this requirement on the next version. 
+ Please use these instructions for grabbing the last version of CK.
+ * Downgrade CK to previous version using Steam Console here are required depots:
+
+* download_depot 1946180 1946182 926444740758492387
+* download_depot 1946180 1946183 2725999750516785042
+
+windows key + R and type steam://open/console
 
 ### Wabbajack Installation
 
