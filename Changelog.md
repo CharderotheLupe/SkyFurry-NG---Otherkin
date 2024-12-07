@@ -10,6 +10,9 @@
 
 
 # Changelog
+- [2.0.0](#200) December 7 2024
+
+# Changelog
 - [1.0.0](#100) August 13 2024
 
 
