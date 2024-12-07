@@ -1,0 +1,432 @@
+12/7/24
+Publish 2.0.0
+
+Removed: Encounter Zone Informer
+Updated: Community Shaders and associated mods.
+Regenerated parallaxGen and LOD files.
+
+Bruma is not generated as lod files are included already via its mod.
+
+
+
+
+12/3/24
+
+Updated Steel Armors and Weapons retexture. Fomod = all vanilla+CC items, brown fur option,vanilla plate option.
+
+
+
+12/1/24
+
+Added: Bird Races of Skyrim SE and RDF Patch.
+
+Created patch for Nirn Necessities and Simon Schoolsacks to carry over movement speed adjustments.
+
+
+
+11/30/24
+
+Added:  Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers
+Fixed an issue where the Dwarven Mail gauntlet of magicka had wrong enchantment.
+
+*DunLostKnifeBanditBoss [NPC_:0001C902] Now wears a custom armor set with shield thanks to SunJeong.
+
+
+11/22/24
+
+Added: Armory of the Dragon Cult - Artificer Addon
+
+
+11/19/24
+
+Fixed naked DunLostKnifeBanditBoss [NPC_:0001C902] to wear iron armor.
+
+
+11/17/24
+
+Added complex parallax materials - created custom mesh patch.
+Removed Simplicity of snow for Better Dynamic Snow 3.
+Most of all dialogue expansion mods were added.
+Landscape enhancement and dungeon mods added, see modlist for info.
+Added Staves of Safety + patched lvl list tweaks (probably too many staves now).
+Removed Persistent Favorites (buggy)
+
+
+
+
+
+
+11/11/24
+
+Added: Ra'jha - Immersive Fully voiced Khajiit Male follower
+Updated custom patches. Added NFF Ignore token for Ra’jha.
+
+
+
+11/10/24
+
+Changed value for tempering (fTemperingSkillUseMult from 3 to 1) from Adamant smithing to adjust how Honed Metal NPC’s with producing higher than normal tempering values.
+Turned off "NPC Ability Boost" in Honed Metal's MCM. 
+
+
+
+11/8/24
+
+Grass Cache Generated (The Drez'kth'ar Horror partially did not generate)
+
+Added: ABT AE - Arrows and Bolts Tweaks Anniversary Edition
+
+
+
+11/6/24
+
+Added: Precision, Precision Riekling Spear, Wait Your Turn - Enemy Circling Behaviour, Modern Combat AI
+
+
+
+
+11/3/24
+
+Added: Ancient Falmer Ruins (Snow Elf Dungeons) plus C.o.i.n. Patch, Civil War Champions - Reduced Cut
+
+Updated custom patching.
+
+
+
+11/2/24
+
+Added: Better Skyrim Parties - Weddings - Funerals - Crowd Events Overhaul
+Updated: HPH patch records
+
+
+11/1/24
+
+Added: Bleak Falls Barrow Overhaul Version 2, Deadly Dragon Lair Locations, Grain Mill Animation Fix
+
+Updated custom patching
+
+
+
+10/30/24
+
+Added: Skyfall's Fortified Morthal, Esbern's Warning - Intro Movie Restored - Cut Content, Extended Encounters
+
+
+
+10/28/24
+
+Added: A Skeever on the Winking Skeever Sign, Improved Theater, Solitude Clock Tower and the glow addon, Local Map Upgrade, auto parallax, Recipe Auto-Learn
+
+
+
+10/26/24
+
+Added: Whiterun Has Walls Redone, Collision Dialogue Overhaul
+
+
+
+
+10/24/24
+
+Added:  Dragons SE by 4thUnknown
+
+
+
+10/23/24
+
+Added: Horse Save Load Fix, Dragonia, The Thrassian Scare, The Drez'kth'ar Horror, A Dizzying Fall - Quest Mod, Ivy - Riverwood Windmill Apothecary, A Shrine of Azura at The Shrine of Azura, JS Badges of Office SE, Housecarls Pre-Thaneship, Subtleties of Skyrim - Red Mountain Lava - Distant Ships - Vvardenfell Mushroom, A Good Death - Old Orc Overhaul
+
+Removed: Bow of Shadows Reduced cut, Redguard Elite quest removal, Crimson Trail - CT_ChrysamereIntegration
+
+Updated Slampire's Creation Cave - Creation Club Reintegration  -Not save safe-
+
+Updated my custom patches to reflect new and removed mods.
+
+
+
+10/21/24
+
+Replaced Merchant Exchange with Treasury Exchange
+
+Added: The Surviving Falmer - An Alternate Start (Alt Perspective)
+
+
+10/20/24
+
+Added: Wyrmstoogh Animated
+
+
+
+10/17/24
+
+Fixed AE crash for SkyFurry NG related to Khajiit.
+Adjusted the statue of Mara Nif and added an upscaled 4k texture to the base statue (ICFur).
+
+Changed INI file for Blade and Blunt to enable level based difficulty. (See mod page of B&B for info).
+
+Added: Unarmed Behaviors Expanded, Power Attack Direction Fix - AE, dTry's Key Utils( AE mega download), Raven Rock Tunnel Fix - Collision. Parallax. Horse Access. Smoothed Normals, NPC Infinite Block Fix, Dragonborn Reskin - SkyUI Active Effects Icons and some QoL SkyUI fixes.
+
+Updated Aetherius patches for updates on new fox races and ability values.
+
+
+10/15/24
+
+Updated: Pandora engine to 2.3.0
+
+
+
+10/14/24
+
+Added retexture NIF files for dragon priest masks to custom patch. 
+
+
+
+10/13/24
+
+Replaced Busy Follower Framework with Nether’s Follower Framework due to issues.
+
+Added: Khajiit Will Follow and custom patches. Inigo Snazzy Items, SmoothCam, EVGAT Traversal and climbable ladders and more OAR animations for player and NPC.
+
+
+
+10/12/24
+
+Created fix for dragon priest masks and Clavicus Vile mask to work with both human and furry heads. Created patch for retexture of dragon priest masks with custom nif changes and records(SFNG Conflict ESP), some masks are not affected as they need more customization.
+
+
+
+
+10/10/24
+
+Updated: Dyndolod to Alpha-182 including all related resources.
+
+
+
+10/7/24
+
+Updated: Dragon War
+
+
+
+10/6/24
+
+Updated SFNG Aetherius+Sharp Claws to remove head part overlay for vampire races and add new fox races (same stats as regular foxes)
+
+Updated Raccoon Race Aetherius to remove head part overlay for vampire version.
+
+Updated Github to add Creation Kit as requirement.
+
+Updated: Wolf, Iron and Forsworn armors. Bodyslide and outfit studio. Skypatcher.
+
+
+
+10/5/24
+
+-Look at (SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)
+-Get prepped for Grass Cache.
+
+Alternate start with companions quest is unclear on who to speak with to begin quests.
+
+Added: Inigo Official Patch SE (ESPFE Version), Jorrvaskr Stairs Fix
+
+Updated: No Grass In Objects
+
+Changed: Misc Tweaks to include a patch for WIFollowerCommentNode [SMQN:0004C729] to resolve conflicts.
+
+10/2/24
+
+Updated: Alternate Perspective - Alternate Start to version 4.0, Alternate Perspective - Voiced Addon for 4.0
+
+Adjusted Misc Tweaks - Forwarded records for imprisoned by Thalmor start.
+
+Added: SFNG HPH and Vampire Fix to custom patches. Removed overlay head parts list for vampire races so eyes don’t change from racemenu.
+
+
+
+
+9/29/24
+
+Adjusted Level List Items.esp and Level List Items.esp
+
+
+
+9/28/24
+
+Updated: Ghosts of the Tribunal - Reduced Cut, Happy Little Trees Add-On - DynDOLOD 3
+
+
+
+9/27/24  Humanoid Update
+
+Added: modular smp hairstyles, Reverie, Expressive facegen morphs, Vanilla Hair - Salt and Wind, Realistic hair colors, Hvergelmir’s Aesthetics - beards and brows, Vanilla hair remake smp+NPC, High Poly Head, Vanilla Hair Remake Patches, Custom SFNG patch for HPH.
+
+Updated: Simplicity of Snow
+
+
+
+9/25/24
+
+Updated: CoMAP, Granite Hill, Particle Patch
+
+
+
+
+9/24/24
+
+Updated: HD Local Map
+
+
+
+9/23/24
+
+Updated: Siege at Icemoth Not savesafe, C.O.I.N. - Coins of Interesting Natures, Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers, Lightning VFX Edit
+
+Added: Particle Patch-Magic Light Update
+
+
+
+9/22/24
+
+Updated: Simplicity of Snow, Open for Business - Lawbringer and Assorted Tweaks for Siege at Icemoth, Assorted mesh fixes, Dragons Use Thu'um, Raccoon Race for SkyFurry NG, SkyFurry NG 1.2.5 hotfix 6
+
+
+
+9/21/24
+
+Updated: Skyrim Silver - Currency Swapper for Windhelm,  Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers, C.O.I.N. - Coins of Interesting Natures
+
+
+
+Added: Morrowind Mint - Currency Swapper for Solstheim, Elven Supremacy - Currency Swapper for Thalmor, LeveledList Crash Fix
+
+
+
+
+9/20/24
+
+Updated: Merlin the Corgi, Assorted mesh fixes, More Informative Console
+
+
+
+9/19/24
+
+Updated: AI Overhaul SSE, Armory of the Depths - Unique Dwarven Armors
+
+
+
+9/18/24
+
+Updated: Missile's IED Preset, Swords of Southfringe - Expanded Spell Knight Armors
+
+
+
+9/15/24
+
+Updated: Assorted mesh fixes
+
+
+
+
+9/14/24
+
+Changed: Misc Tweaks.esp for CC Contest to use armorer table and quicksilver for material needed.
+
+
+
+9/13/24
+
+Updated: Alternate Forms Keep Utility
+
+Added: SkyFurry NG - Saints and Seducers swaps
+
+
+9/12/24
+
+Updated: Gladys the Corgi
+
+
+
+9/11/24
+
+Updated: Skyrim Silver - Currency Swapper for Windhelm, 
+
+
+
+
+
+9/9/24
+
+*** Changed: removed Falas Selvayn from misc. Tweaks
+
+Added: The Gildergreen Fix
+
+Updated: FormList Manipulator - FLM, Extended Guard Dialogue
+
+
+
+
+
+
+9/7/24
+
+Updated: Complete Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers, Skyrim Silver - Currency Swapper for Windhelm, C.O.I.N. - Coins of Interesting Natures, SkyPatcher, Tamrielic Distribution
+
+
+
+
+
+
+9/6/24
+
+Updated: True Directional Movement - Modernized Third Person Gameplay
+
+
+
+9/5/24
+
+Updated: C.O.I.N. - Coins of Interesting Natures, Complete Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers, Dragon War - A Dragon Overhaul, Follower and Companion Trap Protection SPID
+
+
+
+
+9/4/24
+
+Updated: Skyrim Silver - Currency Swapper for Windhelm, Skypatcher, Enigma Series Compatibility Patches (Official), Skyland Bits and Bobs - A Clutter Overhaul
+
+
+
+9/3/24
+
+Added: Skyrim Silver - Currency Swapper for Windhelm, Ancient Nord Heroes Use Thu'um - Dragons Use Thu'um Addon, Open for Business - Lawbringer and Assorted Tweaks for Siege at Icemoth, C.O.I.N. - Coins of Interesting Natures, SkyPatcher - AE
+
+
+9/1/24
+
+Updated: C.O.I.N. - Coins of Interesting Natures, Complete Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers
+
+
+
+8/30/24
+
+Updated: Cathedral - 3D Grass Library - Meshes, Aonghus House - A Player Home Mod, Arena - Markarth Side, Container Distribution Framework
+
+
+8/29/24
+
+Updated: Arena - Markarth Side Town, Deadly Spell Impacts
+
+Added: Edmond's BIRDS - Textures SE by Xtudo - 2K
+
+
+
+8/28/24 
+
+Added: Currency Swapper, Complete Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers
+
+Updated: CC Bittercup - Tweaks and Enhancements
+
+8/27/24
+
+Added Container Distribution Framework
+
+Updated: C.O.I.N. - Coins of Interesting Natures Not savesafe 
