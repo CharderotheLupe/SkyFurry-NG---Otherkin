@@ -88,16 +88,7 @@ The English Steam version of Skyrim is the only supported version. I understand 
  6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
 > 
 
-### * Required Steam, Skyrim Special Edition: Creation Kit. * ###
- Install from Steam store (free)
- Note~ Otherkin currently uses the last version of CK and needs to be downgraded, sorry. I'll be removing this requirement on the next version. 
- Please use these instructions for grabbing the last version of CK.
- * Downgrade CK to previous version using Steam Console here are required depots:
 
-* download_depot 1946180 1946182 926444740758492387
-* download_depot 1946180 1946183 2725999750516785042
-
-windows key + R and type steam://open/console
 
 ### Wabbajack Installation
 
@@ -221,9 +212,9 @@ Simply delete the entire modlist folder and you should be good to go.
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~55 GB  
-Install: ~85 GB  
-**TOTAL:** ~140 GB  
+Downloads: ~86 GB  
+Install: ~114 GB  
+**TOTAL:** ~199 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
