@@ -11,7 +11,7 @@
 
 ## This summary is not a description of each and every mod, but I will highlight on some important ones. For a preview list of mods please check out the list on Load Order Library. https://loadorderlibrary.com/lists/skyfurry-ng-otherkin
 
-
+## There is an MCM setting for Collision Dialogue Overhaul that needs the NSFW comments to be turned off if you require total SFW experience although they are not too raunchy 
 
 # contents
 - [Core Mods](#core-mods)
