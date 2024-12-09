@@ -4,9 +4,7 @@
         "title": "SkyFurry NG - Otherkin",
         "description": "A SFW Wabbajack modlist for those wishing a variation of races and challenging gameplay. Races are various anthropomorphic animals with a mix of humanoid. Option for full furry included.",
         "author": "Chardero the Lupe",
-        "maintainers": [
-            "github/Chardero the Lupe"
-        ],
+        "maintainers": "github/CharderotheLupe",
         "game": "skyrimspecialedition",
         "tags": [
             "SimonRim",
