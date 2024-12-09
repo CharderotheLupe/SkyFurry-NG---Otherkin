@@ -51,6 +51,7 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 - [Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) by ECSS Dev Group
 - Most of [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) "Quest Expansion" series provides new ways to complete many vanilla quests.
 - [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/) by EpicCrab
+- [Olenveld](https://www.nexusmods.com/skyrimspecialedition/mods/133579) by F0RCEFI3LD
 
 ## Creation Club Support
 
