@@ -31,6 +31,7 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 ## Textures
 
 - [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179) by Skyking2020
+- [Fantasia Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/107256) bu Skyking2020
 - [Armor Retextures](https://next.nexusmods.com/profile/xavbio/about-me?gameId=1704) by xavbio
 - [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017) by LeanWolf and masterofshadows
 
@@ -43,6 +44,8 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 - [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) by ElectricSparx
 - [Hokoron](https://www.nexusmods.com/skyrimspecialedition/mods/89212) by Aelix
 - [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085) by DarkWandererAmon
+- [Skaven of Skyrim SE (Warhammer Fantasy)](https://www.nexusmods.com/skyrimspecialedition/mods/46519) by aphest
+- [RATS - Rieklings are Transformed Skaven](https://www.nexusmods.com/skyrimspecialedition/mods/109395) be Chardero the Lupe with integration patch for Skaven of Skyrim.
 
 ## New Lands, Quests, Content
 - [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) by The Beyond Skyrim - Cyrodiil Development Team
@@ -61,7 +64,12 @@ Survival overhauled by [Survival Mode Improved] and [Starfrost].
 
 ## Followers
 
-Although not the main focus on this modlist, I did however include some, mostly highlighting Sa'chil Follower as that is a project I am involved in.
+Although not the main focus on this modlist, I did however include some, mostly highlighting [Sa'chil Follower](https://www.nexusmods.com/skyrimspecialedition/mods/106892) as that is a project I am involved in.
+- [Khajiit Will Follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227) by robbobert
+- [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461) by Smartbluecat
+- [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) by Joseph Russell
+- [Ra'jha](https://www.nexusmods.com/skyrimspecialedition/mods/130180) by Sir Southpaw
+- Additional vanilla type followers from some of the furry add-on mod.
 
 
 
