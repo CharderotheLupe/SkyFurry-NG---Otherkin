@@ -28,6 +28,8 @@ SkyFurry NG - Otherkin is built with Simonrim Suite of gameplay overhauls as a c
 
 Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Apprentice difficulty especially with the added challenge of the accompanying enemy mods.
 
+A bug fix has been added [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219) Please note that any loading of saves will restart the game to ensure scripts are loading properly.
+
 ## Textures
 
 - [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179) by Skyking2020
