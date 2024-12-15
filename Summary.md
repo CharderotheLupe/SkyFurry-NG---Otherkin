@@ -135,7 +135,7 @@ Leveling eighteen skills to 100 will result in the character reaching level 100
 Crafting Skills:
 
 Leveling crafting skills will give much less progress towards your character level, for crafting skills below 40
-Leveling crafting skills will give much more progress towards your character level, for crafting skills aboe 60
+Leveling crafting skills will give much more progress towards your character level, for crafting skills above 60
 This prevents the player from power leveling early with crafting, and discourages players from interacting with crafting purely for the early levels
 This also protects the character from having their character level inflated by leveling a skill that contributes little to nothing to their power at low levels
 The total contribution to your character level for reaching 100 with a crafting skill is identical to all other skills
@@ -162,7 +162,7 @@ This change is recommended to be paired with a source of early safe storage
 ### Crafting Skills
 
  - Leveling crafting skills will give much less progress towards your character level, for crafting skills below 40
- - Leveling crafting skills will give much more progress towards your character level, for crafting skills aboe 60
+ - Leveling crafting skills will give much more progress towards your character level, for crafting skills above 60
  - This prevents the player from power leveling early with crafting, and discourages players from interacting with crafting purely for the early levels
  - This also protects the character from having their character level inflated by leveling a skill that contributes little to nothing to their power at low levels
  - The total contribution to your character level for reaching 100 with a crafting skill is identical to all other skills
