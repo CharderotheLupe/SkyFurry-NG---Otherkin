@@ -12,7 +12,7 @@
 # Changelog
 -[2.0.2] December 18 2024
 
-Update for wabbajack list: Removed separators on the load order side as it became too restrictive. Added Root Builder for game files as well as completely revamed mo2 install so now game files will not intrude with stock steam folder.
+Update for wabbajack list: Removed separators on the load order side as it became too restrictive. Added Root Builder for game files as well as completely revamped MO2 install so now the game files will not intrude with stock steam folder.
 
 Updated: Community Shaders, Dragons Use Thu’um, Siege at Icemoth, Vanilla Hair Remake Unlocked - Extended character options - High Poly Head - Expressive Facegen Morphs - patches, Scared of Shootings - NPCs react to aiming bows, Falmer Huts Animated, Otherkin Custom Patches
 
