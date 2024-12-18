@@ -7,6 +7,24 @@
   <a href="https://loadorderlibrary.com/lists/skyfurry-ng-otherkin">Modlist</a> |
   <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Summary.md">Summary</a> |
   </p>
+
+
+# Changelog
+-[2.0.2] December 18 2024
+
+Update for wabbajack list: Removed separators on the load order side as it became too restrictive. Added Root Builder for game files as well as completely revamed mo2 install so now game files will not intrude with stock steam folder.
+
+Updated: Community Shaders, Dragons Use Thu’um, Siege at Icemoth, Vanilla Hair Remake Unlocked - Extended character options - High Poly Head - Expressive Facegen Morphs - patches, Scared of Shootings - NPCs react to aiming bows, Falmer Huts Animated, Otherkin Custom Patches
+
+Added: Terrain Shadows - Olenveld
+
+12/15/24
+
+Updated: QuickLoot IE
+
+
+
+
   
 # Changelog
 - [2.0.0](#201) December 14 2024
