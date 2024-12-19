@@ -30,6 +30,9 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 
 A bug fix has been added [Clean Save Auto-reloader](https://www.nexusmods.com/skyrimspecialedition/mods/88219) Please note that any loading of saves will restart the game to ensure scripts are loading properly.
 
+## Spell Hotbar 2
+- [Spell Hotbar 2](https://github.com/pWn3d1337/Skyrim_SpellHotbar2/blob/master/README.md)
+
 ## Textures
 
 - [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179) by Skyking2020
