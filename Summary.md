@@ -186,7 +186,7 @@ This change is recommended to be paired with a source of early safe storage
  - You will start with 200 Carry Weight
  - You will no longer receive Carry Weight for leveling Stamina
  - There are many sources of Carry Weight in Simonrim; use them
- - With Candlehearth, every inn has safe storage when renting a room.
+ - With Candlehearth, almost every inn has safe storage when renting a room.
 
 ### Tips
 
