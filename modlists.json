@@ -21,19 +21,19 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/CharderotheLupe/SkyFurry-NG---Otherkin/main/Assets/splash.png",
             "readme": "https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/SkyFurry%20NG%20-%20Otherkin.wabbajack_9f8c0d69-fc48-4d96-9453-39c7f4b613fa",
+            "download": "https://authored-files.wabbajack.org/SkyFurry%20NG%20-%20Otherkin.wabbajack_2aa7f019-ebda-406d-a7cd-a6196f1aedc7",
             "machineURL": "SkyFurry-NG---Otherkin",
             "discordURL": "https://discord.gg/skyfurryng"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "VdJc/Cl4EK8=",
-            "Size": 626269018,
-            "NumberOfArchives": 1213,
-            "SizeOfArchives": 89443682795,
-            "NumberOfInstalledFiles": 133965,
-            "SizeOfInstalledFiles": 121280600499
+            "Hash": "Hnqc5POOgSg=",
+            "Size": 592023609,
+            "NumberOfArchives": 1222,
+            "SizeOfArchives": 89455471989,
+            "NumberOfInstalledFiles": 135676,
+            "SizeOfInstalledFiles": 121262904222
         },
-        "version": "2.0.2"
+        "version": "2.0.3"
     }
 ]
