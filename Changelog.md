@@ -10,6 +10,31 @@
 
 
 # Changelog
+-[2.0.3] December 21 2024
+
+12/21/24
+Added: Cheeky Kids
+
+Cleaned up files not used.
+
+12/20/24
+Added: Naked Comments Overhaul, Better Esbern Voice Consistency Fix & Dragon Hunting patch, Misc Voice Consistency Fixes
+
+Updated: QuickLoot IE - A QuickLoot EE Fork
+Rebuilt some patches.
+
+Changed Immersive Equipment Displays Hud hotkey to F10
+
+12/19/24
+Removed NPCs React to Custom Races (made no sense to have it)
+
+Created some level location adjustments for Bruma.
+Created patch to add Skaven into Bruma level list.
+Regenerated ParallaxGen for some texture updates.
+
+
+
+# Changelog
 -[2.0.2] December 18 2024
 
 Update for wabbajack list: Removed separators on the load order side as it became too restrictive. Added Root Builder for game files as well as completely revamped MO2 install so now the game files will not intrude with stock steam folder.
