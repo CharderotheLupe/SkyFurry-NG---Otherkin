@@ -212,9 +212,9 @@ Simply delete the entire modlist folder and you should be good to go.
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~86 GB  
-Install: ~114 GB  
-**TOTAL:** ~199 GB  
+Downloads: ~83 GB  
+Install: ~112 GB  
+**TOTAL:** ~197 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
