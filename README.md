@@ -8,6 +8,11 @@
   <a href="https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/Summary.md">Summary</a> |
   </p>
 
+# No longer supported and obsolete. Visit SkyFurry Discord for Wabbajack lists.
+
+
+
+
 # Please be aware this modlist is using heavy HDT setup and PC specs should be at least what is noted below under system requirements
 
 # SkyFurry NG - Otherkin
